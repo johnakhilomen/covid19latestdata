@@ -1,5 +1,6 @@
 # covid19latestdata
 A basic web app for displaying data on covid based on selected country
+https://johnakhilomen.github.io/covid19latestdata/
 
 This app helps user track Covid-19 confirmed cases across countries.
 The results are found using Covid19 API and Google map.
